@@ -9,11 +9,11 @@ from cms.extensions.extension_pool import extension_pool
 
 class CatalogPlugin(CMSPlugin):
     PANEL_STYLE = (
-        ("primary","primary"),
-        ("success","success"),
-        ("info","info"),
-        ("warning","warning"),
-        ("danger","danger"),
+        ("primary", "primary"),
+        ("success", "success"),
+        ("info", "info"),
+        ("warning", "warning"),
+        ("danger", "danger"),
     )
     CHILD = "child"
     CURRENT = "current"
