@@ -24,7 +24,6 @@ INSTALLED_APPS = [
     'cms',
     'menus',
     'mptt',
-    'treebeard',
     'cmsplugin_catalog',
 ]
 

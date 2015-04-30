@@ -25,7 +25,7 @@ Requirements
 It works fine and tested under ``Python 2.7``. The following libraries are required
 
 - ``Django`` >= 1.5
-- ``django-cms`` >= 3.0 (we recommend to use Django CMS 3.0 and higher, contact us if you need prior CMS versions supports and have some issues)
+- ``django-cms`` >= 3.0, <3.1 (we recommend to use Django CMS 3.0 and higher, lower than 3.1, contact us if you need prior CMS versions supports and have some issues)
 
 Installation
 ============

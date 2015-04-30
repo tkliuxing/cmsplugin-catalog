@@ -25,7 +25,7 @@ config = {
     'author_email': 'ouyanghongyu@gmail.com',
     'license': 'MIT',
     'version': __version__,
-    'install_requires': ['django-cms',],
+    'install_requires': ['django-cms<3.1',],
     'tests_require': ['tox>=1.8'],
     'packages': find_packages(),
     'include_package_data': True,
