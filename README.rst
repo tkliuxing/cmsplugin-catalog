@@ -6,14 +6,15 @@ cmsplugin-catalog
 
 .. |ci| image:: https://travis-ci.org/tkliuxing/cmsplugin-catalog.png?branch=master
     :target: https://travis-ci.org/tkliuxing/cmsplugin-catalog
+    :alt: Development Status
 
-.. |pypi| image:: https://pypip.in/version/cmsplugin-catalog/badge.png?text=pypi
+.. |pypi| image:: https://img.shields.io/pypi/v/cmsplugin-catalog.svg
     :target: https://pypi.python.org/pypi/cmsplugin-catalog/
     :alt: Latest Version
 
-.. |status| image:: https://pypip.in/status/cmsplugin-catalog/badge.png
+.. |status| image:: https://img.shields.io/pypi/dm/cmsplugin-catalog.svg
     :target: https://pypi.python.org/pypi/cmsplugin-catalog/
-    :alt: Development Status
+    :alt: Downloads
 
 
 May you want insert a pages list tree.
