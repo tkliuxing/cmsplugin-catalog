@@ -65,4 +65,4 @@ Fork the repo, create a feature branch then send me pull request. Feel free to c
 
 Translation
 -----------
-You could also help me to translate `cmsplugin-catalog` to your native language `with Transifex <https://www.transifex.com/projects/p/cmsplugin-catalog/resource/main/>`_
+You could also help me to translate `cmsplugin-catalog` to your native language `with Transifex <https://www.transifex.com/projects/p/cmsplugin-catalog/resource/core/>`_
